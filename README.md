@@ -22,7 +22,7 @@ PHP自作
  
  
 ## 環境
-MAMP/MySQL/PHP
+XMAMP/MySQL/PHP
 
 
 ## データベース
